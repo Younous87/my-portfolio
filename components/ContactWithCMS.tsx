@@ -55,15 +55,9 @@ const ContactWithCMS = ({ profile }: ContactProps) => {
       href: `mailto:${profile?.email || 'jonashoussen@gmail.com'}`,
     },
     {
-      icon: Phone,
-      label: 'Phone',
-      value: '+1 (555) 123-4567',
-      href: 'tel:+15551234567',
-    },
-    {
       icon: MapPin,
       label: 'Location',
-      value: 'San Francisco, CA',
+      value: 'Cape Town, ZA',
       href: '#',
     },
   ];
