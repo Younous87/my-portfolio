@@ -15,6 +15,9 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "Younous - Portfolio",
   description: "3rd year CS student passionate about game development, UI design, and home lab adventures. Let's build something epic together!",
+  icons: {
+    icon: "/a-boo.png",
+  },
 };
 
 export default function RootLayout({
