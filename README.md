@@ -34,7 +34,6 @@ A modern, performant portfolio featuring dynamic content management and stunning
 - 🎨 **Beautiful Animations** - Smooth transitions with Framer Motion and GSAP
 - 📱 **Fully Responsive** - Mobile-first design approach
 - 🔄 **Dynamic Content** - Real-time updates via Sanity CMS
-- ♿ **Accessible** - WCAG compliant components
 - 🎭 **Interactive Effects** - WebGL particles and 3D transformations
 - 🔍 **SEO Optimized** - Server components and metadata API
 
